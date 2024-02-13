@@ -24,14 +24,14 @@
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Ganz Scripts for Reaper\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Scripts by Ganz (Sean) for Reaper.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Scripts by Ganz (me) for Reaper.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Install {\field{\*\fldinst{HYPERLINK "https://reapack.com/"}}{\fldrslt{\ul
 ReaPack
 }}}
 . Then, copy and paste this URL in Extensions > ReaPack > Import repositories:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/seanfagan/ReaScripts/raw/master/index.xml\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 To install a specific script, go to Extensions > ReaPack > Browse Packages and then filter by the name of the script.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The scripts will now be available to install. To install a specific script, go to Extensions > ReaPack > Browse Packages and then filter by the name of the script.\par}
 }
 ]]></description>
   </metadata>
